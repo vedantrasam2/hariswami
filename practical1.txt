@@ -1,0 +1,10 @@
+1. Create a Repository on Github
+2. Create a text file on any
+3. Upload text file in your repository
+4. Create one folder in d drive say "Devops"
+5. Go to git bash and clone your repository
+6. Go to that repository and check your txt file ls command
+7. Check your git status 
+8. There are three states of the file
+a. modified b.satged c.commit
+9. upload file on github we use push command 
